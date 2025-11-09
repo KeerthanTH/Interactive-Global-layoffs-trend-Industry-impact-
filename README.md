@@ -10,6 +10,9 @@ This project features an interactive Tableau dashboard analyzing **global techno
 
 Below is a snapshot of the completed, interactive dashboard.
 
+![Final Dashboard Snapshot](final-dashboard.png)
+
+
 
 
 **[🔗 View the Live Interactive Dashboard on Tableau Public]**([https://public.tableau.com/app/profile/keerthan.th/viz/CleanedLayoffs/Dashboard1?publish=yes](https://public.tableau.com/app/profile/keerthan.th/viz/CleanedLayoffs/Dashboard1?publish=yes))
